@@ -8,7 +8,7 @@ Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-"MailKitchen for Wordpress" plugin allows you to create a Newsletter sign-up form and add new subscribers to your Mailing List on your MailKitchen account.
+"MailKitchen for Wordpress" plugin allows you to create a Newsletter sign-up form and add new subscribers to your MailKitchen account.
 
 == Description ==
 
