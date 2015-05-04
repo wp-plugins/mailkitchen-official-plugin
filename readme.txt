@@ -8,16 +8,16 @@ Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-"MailKitchen for Wordpress" plugin allows you to create a form and add subscribers to your MailKitchen account.
+"MailKitchen for Wordpress" plugin allows you to create a Newsletter sign-up form and add new subscribers to your Mailing List on your MailKitchen account.
 
 == Description ==
 
-This plugin for Wordpress allows you to create a subscribing form that you will be able to add easily to your website.<br />
-Once the formular is on your website, web users could subscribe to our newsletter and will be automatically added to your MailKitchen account.<br />
-Then, you will be able to send them a newsletter.<br /><br />
+This plugin for Wordpress allows you to create a Newsletter sign-up form that you can easily add to your website.<br />
+Once that you inserted the sign-up form on your website, users can subscribe to your newsletter and they are automatically added to a Mailing List on your MailKitchen account.<br />
+You can then create your Newsletters using your MailKitchen account and send your email campaigns to your subscribers<br /><br />
 
 Requires an active account.<br />
-To create an account, you can go on : <a href="http://www.mailkitchen.com" target="_blank">MailKitchen free subscription</a>
+To create an account, visit our website : <a href="http://www.mailkitchen.com" target="_blank">MailKitchen free subscription</a>
 
 == Installation ==
 
