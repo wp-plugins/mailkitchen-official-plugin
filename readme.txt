@@ -26,17 +26,15 @@ To create an account, visit our website : <a href="http://www.mailkitchen.com" t
 3. Create a form
 4. Add the form to you website (choosing, for example, to add it to your website footer)
 
+== Frequently Asked Questions ==
+
+If you have some questions, we have a nice FAQ for you on our website : <a href="http://support.mailkitchen.com/en/" target="_blank">MailKitchen's FAQ</a> <br />
+And remember that with MailKitchen, you can send up to 20.000 emails per month for FREE ! (and if you need to send more emails, we have more plans for you : <a href="http://www.mailkitchen.com/en/email-campaign-prices" target="_blank">MailKitchen's offers</a>
 
 == Screenshots ==
 
 1. Simply sign in with your Mailkitchen account
 2. Create easely a new sign-up form
-
-
-== Frequently Asked Questions ==
-
-If you have some questions, we have a nice FAQ for you on our website : <a href="http://support.mailkitchen.com/en/" target="_blank">MailKitchen's FAQ</a> <br />
-And remember that with MailKitchen, you can send up to 20.000 emails per month for FREE ! (and if you need to send more emails, we have more plans for you : <a href="http://www.mailkitchen.com/en/email-campaign-prices" target="_blank">MailKitchen's offers</a>
 
 == Changelog ==
 
