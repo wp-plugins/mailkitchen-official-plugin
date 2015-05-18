@@ -40,3 +40,6 @@ And remember that with MailKitchen, you can send up to 20.000 emails per month f
 
 = 1.0 =
 This is the first version of this plugin
+
+= 1.0.1 =
+Language Update

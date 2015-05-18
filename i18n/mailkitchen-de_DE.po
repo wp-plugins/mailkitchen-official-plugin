@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mk_plugin 1.0\n"
 "Report-Msgid-Bugs-To: support@mailkitchen.com\n"
 "POT-Creation-Date: 2015-02-11 10:00+0100\n"
-"PO-Revision-Date: 2015-04-08 11:58+0100\n"
+"PO-Revision-Date: 2015-04-23 18:07+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: fr\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Anmeldeformular für  Mail<span style='color:#A7CA01;'>K</span>itchen "
 
 #: php/config.php:264
 msgid "description_plugin_barchoix"
-msgstr "Mail<span style='color:#A7CA01;'>K</span>itchen Formular"
+msgstr "MailKitchen Formular"
 
 #: php/config.php:294
 msgid "titre_plugin_edition"

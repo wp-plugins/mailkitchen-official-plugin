@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mk_plugin 1.0\n"
 "Report-Msgid-Bugs-To: support@mailkitchen.com\n"
 "POT-Creation-Date: 2015-02-11 10:00+0100\n"
-"PO-Revision-Date: 2015-04-08 12:00+0100\n"
+"PO-Revision-Date: 2015-05-07 17:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: fr\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Sign-up form for Mail<span style='color:#A7CA01;'>K</span>itchen"
 
 #: php/config.php:264
 msgid "description_plugin_barchoix"
-msgstr "Sign-up form Mail<span style='color:#A7CA01;'>K</span>itchen "
+msgstr "Sign-up form MailKitchen "
 
 #: php/config.php:294
 msgid "titre_plugin_edition"
@@ -41,7 +41,7 @@ msgstr "Select your Sign-up form"
 
 #: php/config.php:294 php/config.php:307
 msgid "lien_plugin_edition"
-msgstr "<a href=\"admin.php?page=create-your-form\">Create a new sign-up form "
+msgstr "<a href=\"admin.php?page=create-your-form\">Create a new sign-up form</a>"
 
 #: php/config.php:307
 msgid "description_plugin_edition"
@@ -65,7 +65,7 @@ msgstr "Please type your Mail<span style=\"color:#A7CA01;\">K</span>itchen login
 
 #: php/account-information.php:27
 msgid "titre_connexion_account_information"
-msgstr "Sing in"
+msgstr "Sign in"
 
 #: php/account-information.php:29
 msgid "login_connexion_account_information"
