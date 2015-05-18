@@ -4,7 +4,7 @@ Donate link:
 Tags: mailkitchen, newsletter, emailing, subscribers, marketing, email marketing
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 2.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,7 +39,7 @@ And remember that with MailKitchen, you can send up to 20.000 emails per month f
 == Changelog ==
 
 = 1.0.1 =
-Language Update
+*Language Update
 
 = 1.0 =
-This is the first version of this plugin
+*This is the first version of this plugin
