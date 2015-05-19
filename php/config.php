@@ -1,8 +1,8 @@
 <?php
 
 /* Liens utiles */
-DEFINE( 'MK_PLUGIN','../wp-content/plugins/mailkitchen/');
-DEFINE( 'MK_SELF','/wp-content/plugins/mailkitchen/');
+DEFINE( 'MK_PLUGIN','../wp-content/plugins/mailkitchen-official-plugin/');
+DEFINE( 'MK_SELF','/wp-content/plugins/mailkitchen-official-plugin/');
 DEFINE( 'MK_FILES','../../../../wp-admin/');
 DEFINE( 'MK_ABSPATH','../');
 DEFINE( 'MK_ABS_LIST',__("abs_liste_diffusion","mailkitchen"));
@@ -10,7 +10,7 @@ ini_set('soap.wsdl_cache_enabled', 0);
 
 /* Ecriture wordpress */
 function mk_init() {
-	$plugin_dir = 'mailkitchen/i18n';
+	$plugin_dir = 'mailkitchen-official-plugin/i18n';
 	load_mkplugin_textdomain( 'mailkitchen', $plugin_dir);
 }
 function afficher_lien_menu() {

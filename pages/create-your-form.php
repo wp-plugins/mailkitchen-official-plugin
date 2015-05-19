@@ -76,7 +76,6 @@ if(isset($_POST)){
 						<option value="0"><?php echo __("champ_liste_form_action_create_your_form","mailkitchen"); ?></option>
 						<?php
 							$listediffusion = view_member_list();
-							var_dump($listediffusion);
 							foreach($listediffusion as $liste) {
 								echo "<option value='".$liste['id']."'". ( ($rows['list_name']==$liste['id'])?"selected='selected'" :"") ." >".$liste['name']." (".$liste['nb_member'].")</option>";
 							}
