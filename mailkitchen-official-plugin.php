@@ -3,7 +3,7 @@
 Plugin Name: Mailkitchen
 Plugin URI: http://mailkitchen.com
 Description: Create a new subscription form and add contacts to your MailKitchen account
-Version: 1.0
+Version: 1.1
 Author: Mailkitchen
 */
 
